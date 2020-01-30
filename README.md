@@ -34,5 +34,5 @@ CSV(csv→pd.DataFrame)：29秒
 是否属于操作不当？还望大佬慷慨解答为谢！  
 
 ----------------相关附件----------------  
-由于论坛好像不能上传附件，所以源代码请到我github去查看吧https://github.com/J-1n/Mongo_vs_CSV  
+源代码请到我仓库中去查看吧https://github.com/J-1n/Mongo_vs_CSV  
 或者从网盘中下载完整的代码+数据文件链https://pan.baidu.com/s/1RfWXIJG2kHuAZnCkOqqhGw 提取码: gv7j
